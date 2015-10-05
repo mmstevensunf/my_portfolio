@@ -1,20 +1,31 @@
 /*elements*/
 
-bg {
-	background: gray;
-}
-
-
-h1 {
+h1, h2 	{
 	color: #79777f;
+	font-family: sans-serif;
 }
 
 p {
 	font-family: sans-serif;
 	color: #79777f;
-	font-size: 10px;
+	font-size: 11px;
 }
 
+nav {
+	font-family: sans-serif;
+	font-size: 10px;
+	text-decoration: 
+}
+
+img {
+	border-style:  solid 4px;
+}
+
+.footer {
+	font-size:9px;
+	font-color:#9d9284;
+	font-family: sans-serif;
+}
 
 
 
